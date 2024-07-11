@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
     <header>
-        <h1>Welcome to Mrs. Smith's Social Studies Class</h1>
+        <h1>Welcome to  Ms. Smith's Social Studies Class</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -15,7 +15,7 @@
     <main>
         <section>
             <h2>Introduction</h2>
-            <p>Welcome to the official website for Mrs. Smith's Social Studies class. Here, you'll find resources, updates, and contact information.</p>
+            <p>Welcome to the official website for  Ms. Smith's Social Studies class. Here, you'll find resources, updates, and contact information.</p>
         </section>
         <section>
             <h2>Latest News</h2>
@@ -23,7 +23,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Mrs. Smith's Social Studies Class. All rights reserved.</p>
+        <p>&copy; 2024  Ms. Smith's Social Studies Class. All rights reserved.</p>
     </footer>
 </body>
 </html>
