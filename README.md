@@ -123,7 +123,22 @@
     </ul>
 </body>
 </html>
-
+  </section>
+    </main>
+       <section>
+            <h2>Accomidation Needed:</h2>
+            <p> This lesson will take approximately 45 minutes..</p>
+        </section>
+       <section>
+            <h2>Level of Instruction:</h2>
+            <p> Middle School, Intermediate Learners.</p>
+        </section>
+       <section>
+            <h2>Applicable First Principles &/or Concepts: </h2>
+           <h2>GenCyber First Principles</h2>
+         <!DOCTYPE html>
+<html lang="en">
+<head>
 </body>
 </html>
 <body>
