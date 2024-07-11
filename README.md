@@ -24,7 +24,7 @@
         </section>
        <section>
             <h2>Level of Instruction:</h2>
-            <p> TMiddle School, Intermediate Learners.</p>
+            <p> Middle School, Intermediate Learners.</p>
         </section>
        <section>
             <h2>Applicable First Principles &/or Concepts: </h2>
@@ -34,35 +34,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Key Concepts Table</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-bottom: 20px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
-        th {
-            background-color: #4CAF50;
-            color: white;
-        }
-        td {
-            background-color: #fff;
-        }
-        td.bold {
-            font-weight: bold;
-        }
-    </style>
 </head>
 <body>
     <h1>Key Concepts</h1>
