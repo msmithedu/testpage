@@ -19,10 +19,6 @@
         </section>
     </main>
        <section>
-            <h2>Length of Completion:</h2>
-            <p> This lesson will take approximately 45 minutes..</p>
-        </section>
-       <section>
             <h2>Level of Instruction:</h2>
             <p> Middle School, Intermediate Learners.</p>
         </section>
