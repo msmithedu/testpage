@@ -39,8 +39,8 @@
     <h1>Key Concepts</h1>
     <table>
         <tr>
-            <th>Term 1</th>
-            <th>Term 2</th>
+            <th></th>
+            <th></th>
         </tr>
         <tr>
             <td>Domain Separation</td>
