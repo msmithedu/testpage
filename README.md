@@ -120,7 +120,7 @@
         <li>Chromebook</li>
           <li><a href="https://docs.google.com/presentation/d/1Bz7USsiMJbg9lu5-xV_LprABQEZGzE_TtFbJxcxKl2w/edit?usp=sharing" target="_blank">Google Slides</a> on Egyptian tomb security</li>
         <li>Great Pyramid Of Giza Model Simulation</li>
-        <li><a href="(https://sketchfab.com/3d-models/great-pyramid-of-giza-01810314feca4415a33a51dd151eacb3)" target="_blank">Google Slides</a> on Egyptian tomb security</li>
+        <li><a href="(https://sketchfab.com/3d-models/great-pyramid-of-giza-01810314feca4415a33a51dd151eacb3)" target="_blank">Great Pyramid</a> on Great Pyramid Of Giza Model Simulation</li>
     </ul>
 </body>
 </html>
