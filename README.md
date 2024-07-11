@@ -89,6 +89,40 @@
         <p>This is for a workshop that I am attending this week.</p>
     </div>
 </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources Needed</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Resources that are Needed:</h1>
+    <ul>
+        <li>Paper for notes</li>
+        <li>Guided notes set</li>
+        <li>Pencil</li>
+        <li>Chromebook</li>
+        <li>Google Slides on Egyptian tomb security</li>
+        <li>Great Pyramid Of Giza Model Simulation</li>
+    </ul>
+</body>
+</html>
 
 </body>
 </html>
