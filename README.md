@@ -79,12 +79,6 @@
             <td>Integrity</td>
             <td>Keep it Simple</td>
     </table>
-<body>
-    <div class="container">
-        <h1>Hello!</h1>
-        <p>This is for a workshop that I am attending this week.</p>
-    </div>
-</body>
 <!DOCTYPE html>
 <html lang="en">
 <head>
