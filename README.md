@@ -14,8 +14,8 @@
             <p>This lesson provides an in-depth exploration of ancient Egyptian tombs, focusing on the cybersecurity principle of layering. Students will investigate how the Egyptians used multiple layers in tombs to protect the deceased, and treasure. The lesson integrates discussions, and multimedia resources to enhance understanding, drawing parallels to cybersecurity principles.</p>
         </section>
         <section>
-            <h2>Latest News</h2>
-            <p>Stay tuned for the latest updates and news regarding our class activities and projects.</p>
+            <h2>Prerequisite Knowledge:</h2>
+            <p> Students should have a basic understanding of ancient Egyptian civilization, including their beliefs, art, and burial practices..</p>
         </section>
     </main>
     <footer>
