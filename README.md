@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
     <header>
-        <h1>Welcome to  Ms. Smith's Social Studies Class</h1>
+        <h1>Ancient Egyptian Tombs: Exploring Layering</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -14,8 +14,8 @@
     </header>
     <main>
         <section>
-            <h2>Introduction</h2>
-            <p>Welcome to the official website for  Ms. Smith's Social Studies class. Here, you'll find resources, updates, and contact information.</p>
+            <h2>Lesson Description</h2>
+            <p>This lesson provides an in-depth exploration of ancient Egyptian tombs, focusing on the cybersecurity principle of layering. Students will investigate how the Egyptians used multiple layers in tombs to protect the deceased, and treasure. The lesson integrates discussions, and multimedia resources to enhance understanding, drawing parallels to cybersecurity principles.</p>
         </section>
         <section>
             <h2>Latest News</h2>
