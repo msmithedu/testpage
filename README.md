@@ -18,9 +18,10 @@
             <p> Students should have a basic understanding of ancient Egyptian civilization, including their beliefs, art, and burial practices..</p>
         </section>
     </main>
-    <footer>
-        <p>&copy; 2024  Ms. Smith's Social Studies Class. All rights reserved.</p>
-    </footer>
+       <section>
+            <h2>Length of Completion:</h2>
+            <p> This lesson will take approximately 45 minutes..</p>
+        </section>
 </body>
 </html>
 <body>
