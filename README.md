@@ -29,8 +29,72 @@
        <section>
             <h2>Applicable First Principles &/or Concepts: </h2>
            <h2>GenCyber First Principles</h2>
-            <p> This lesson will take approximately 45 minutes..</p>
-        </section>
+         <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Key Concepts Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        td {
+            background-color: #fff;
+        }
+        td.bold {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Key Concepts</h1>
+    <table>
+        <tr>
+            <th>Term 1</th>
+            <th>Term 2</th>
+        </tr>
+        <tr>
+            <td>Domain Separation</td>
+            <td>Abstraction</td>
+        </tr>
+        <tr>
+            <td>Process Isolation</td>
+            <td>Data Hiding</td>
+        </tr>
+        <tr>
+            <td>Resource Encapsulation</td>
+            <td class="bold">Layering</td>
+        </tr>
+        <tr>
+            <td>Modularity</td>
+            <td>Simplicity</td>
+        </tr>
+        <tr>
+            <td>Least Privilege</td>
+            <td>Minimization</td>
+        </tr>
+    </table>
+</body>
+</html>
+
        <section>
             <h2>Length of Completion:</h2>
             <p> This lesson will take approximately 45 minutes..</p>
