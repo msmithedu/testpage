@@ -65,11 +65,31 @@
     </table>
 </body>
 </html>
+    <h1>GenCyber Cybersecurity Concepts</h1>
+    <table>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <td>Defense in Depth</td>
+            <td>Availability</td>
+        </tr>
+        <tr>
+            <td>Confidentiality</td>
+            <td>Think Like an Adversary</td>
+        </tr>
+        <tr>
+            <td>Integrity</td>
+            <td>Keep it Simple</td>
+    </table>
+<body>
+    <div class="container">
+        <h1>Hello!</h1>
+        <p>This is for a workshop that I am attending this week.</p>
+    </div>
+</body>
 
-       <section>
-            <h2>Length of Completion:</h2>
-            <p> This lesson will take approximately 45 minutes..</p>
-        </section>
 </body>
 </html>
 <body>
