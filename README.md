@@ -22,6 +22,19 @@
             <h2>Length of Completion:</h2>
             <p> This lesson will take approximately 45 minutes..</p>
         </section>
+       <section>
+            <h2>Level of Instruction:</h2>
+            <p> TMiddle School, Intermediate Learners.</p>
+        </section>
+       <section>
+            <h2>Applicable First Principles &/or Concepts: </h2>
+           <h2>GenCyber First Principles</h2>
+            <p> This lesson will take approximately 45 minutes..</p>
+        </section>
+       <section>
+            <h2>Length of Completion:</h2>
+            <p> This lesson will take approximately 45 minutes..</p>
+        </section>
 </body>
 </html>
 <body>
